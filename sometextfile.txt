@@ -1,1 +1,3 @@
-[200~AWS Free Tier includes offers that expire 12 months following sign up and others that never expire.
+[200~AWS Free Tier includes offers that expire 12 months following sign up and others that never expire.
+This is a test
+Added some new text
