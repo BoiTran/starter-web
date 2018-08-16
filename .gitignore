@@ -1,2 +1,5 @@
 testignore.txt
-log
+*.gitignore
+log/
+*.orig
+
